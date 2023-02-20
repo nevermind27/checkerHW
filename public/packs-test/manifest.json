@@ -1,0 +1,34 @@
+{
+  "application.js": "/packs-test/js/application-66a76a934529bc0d6953.js",
+  "application.js.map": "/packs-test/js/application-66a76a934529bc0d6953.js.map",
+  "checkbox_handler.js": "/packs-test/js/checkbox_handler-71f682b8da9bbbd907b6.js",
+  "checkbox_handler.js.map": "/packs-test/js/checkbox_handler-71f682b8da9bbbd907b6.js.map",
+  "copy_handler.js": "/packs-test/js/copy_handler-1fc76fd17134eb5d1c02.js",
+  "copy_handler.js.map": "/packs-test/js/copy_handler-1fc76fd17134eb5d1c02.js.map",
+  "entrypoints": {
+    "application": {
+      "js": [
+        "/packs-test/js/application-66a76a934529bc0d6953.js"
+      ],
+      "js.map": [
+        "/packs-test/js/application-66a76a934529bc0d6953.js.map"
+      ]
+    },
+    "checkbox_handler": {
+      "js": [
+        "/packs-test/js/checkbox_handler-71f682b8da9bbbd907b6.js"
+      ],
+      "js.map": [
+        "/packs-test/js/checkbox_handler-71f682b8da9bbbd907b6.js.map"
+      ]
+    },
+    "copy_handler": {
+      "js": [
+        "/packs-test/js/copy_handler-1fc76fd17134eb5d1c02.js"
+      ],
+      "js.map": [
+        "/packs-test/js/copy_handler-1fc76fd17134eb5d1c02.js.map"
+      ]
+    }
+  }
+}
