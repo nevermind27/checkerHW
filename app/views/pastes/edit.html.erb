@@ -1,0 +1,8 @@
+<h1><%= t 'forms.editing_paste' %></h1>
+<img src='https://s00.yaplakal.com/pics/pics_original/2/7/6/315672.jpg' width='200px' height=200px>
+<%= render 'form', paste: @paste, current_user: @current_user %>
+<div class="btn-group col-12 uniform-control">
+  <%= link_to t('forms.show'), @paste, class: 'btn btn-primary' %>
+  <%= render 'back' %>
+  <%= link_to t('forms.delete'), @paste, method: :delete, data: { confirm: t('forms.messages.are_you_sure?') }, class: 'btn btn-danger' %>
+</div>
